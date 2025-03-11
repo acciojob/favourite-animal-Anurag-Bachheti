@@ -1,2 +1,12 @@
-
-/* Your CSS Code here. */
+body {
+	font-family: Arial, sans-serif;
+	text-align: center;
+	background-color: #f4f4f4;
+	padding: 20px;
+}
+img {
+	width: 400px;
+	height: 200px
+	border-radius: 10px;
+	box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
